@@ -8,3 +8,5 @@ This document is intended as an instructional document for configuring Ubuntu Se
 •	DHCP: I will be configuring Dynamic Host Configuration Protocol to dish out IP addresses for clients.
 
 •	Squid: Squid is a transparent proxy server, that we will use to block traffic on the internal network.
+
+I will be running my Ubuntu Server 20.04 on a virtual machine using VMware Workstation. In order to run VMware Workstation, your PC must be capable of running a hypervisor. You can download the Ubuntu Server 20.04 directly from the ubuntu website with a simple google search.
